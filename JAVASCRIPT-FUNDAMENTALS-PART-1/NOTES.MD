@@ -30,4 +30,33 @@ DEFAULT_TIMEOUT
 MIN_PASSWORD_LENGTH
 ```
 
-### Assignment 1
+# LESSON 10 : DATA TYPES
+
+### THE 7 PRIMITIVE DATA TYPES
+* NUMBER : let age = 23;
+* STRING : let firstName = 'Sonny';
+* BOOLEAN : let fullAge = true;
+
+* UNDEFINED : let children
+* NULL : 'empty value'
+* SYMBOL
+* BIGINT
+
+Value has a type NOT variable
+
+### COMMENT CODE
+
+command /
+
+MULTI-LINE COMMENT
+
+/* CODE */
+
+DECLARING A NEW VARIABLE
+
+* use let, const or var
+* To reassign you don't need a variable name
+* JavaScript automatically determines the type based on the value assigned to the variable, and this type can change during the program’s execution.
+
+# LESSON 11 : LET - CONST - VAR
+
